@@ -1,0 +1,10 @@
+Mod 7 Salve
+In acest mod, navele pot fi plasate si pe diagonala, insa schimbarea principala
+vine din faptul ca fiecare jucator are la dispozitia sa 7 atacuri pentru fiecare
+tura.
+Player-ul va fi anuntat la finalul atacului sau daca a lovit sau nu o nava
+inamica, insa nu va sti pe ce pozitie se afla aceasta.
+De asemenea, navele au o mai mare importanta aici, deoarece fiecare nava
+reprezinta o parte din cele 7 lovituri valabile, iar pierderea uneia inseamna
+pierderea a atatea lovituri cate reprezinta nava respectiva:
+  nava de 4 = 3 lovituri     nava de 3 = 2 lovituri     nava de 2 = 1 lovitura

@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1547545505 source:f:\programming\facultate\test grafica\lets get it\main.cpp
+	<iostream>
+	<winbgim.h>
+	<conio.h>
+	<cmath>
+	<cstdlib>
+	<time.h>
+	<random>
+	<cstring>
+	<cstdio>
+	<stack>
+	<fstream>
+

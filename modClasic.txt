@@ -1,0 +1,8 @@
+Mod Clasic
+Este modul clasic de joc, cunoscut de toata lumea. Aici, navele pot fi plasate
+doar pe orizontala si verticala.
+Fiecare jucator ataca o singura data in tura sa, incercand sa scufunde navele
+inamicului, inainte sa fie scufundate ale sale.
+Pozitiile deja atacate vor fi marcate cu un X si nu vor putea fi atacate din
+nou. Player-ul va fi anuntat atunci cand loveste o nava a computer-ului
+de catre tabla de scor din dreapa.
